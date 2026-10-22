@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Task1_Native",
+    "slug": "task1-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ],
+    "android": {
+      "package": "com.task1native.tictactoe"
+    }
+  }
+}
